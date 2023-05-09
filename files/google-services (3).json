@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982844258243",
+    "project_id": "beichee-73408",
+    "storage_bucket": "beichee-73408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982844258243:android:1a445bf8ee3e19fe546f76",
+        "android_client_info": {
+          "package_name": "com.android.beichee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982844258243-kfoij11nvvkoc2sgokl06nj13galpmlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.beichee",
+            "certificate_hash": "bf842af996303fb6d5150a3b117ad34c310f29d3"
+          }
+        },
+        {
+          "client_id": "982844258243-l6tdsi53jkkhfbereu3merr6kgj2pi72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4_7pv-iEWYXYOkCgdFelikCnjRCFvxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982844258243-l6tdsi53jkkhfbereu3merr6kgj2pi72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
